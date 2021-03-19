@@ -1,0 +1,3 @@
+unknown;-1
+satya;0
+vikas;1

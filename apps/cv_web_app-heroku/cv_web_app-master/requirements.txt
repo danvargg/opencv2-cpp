@@ -1,0 +1,7 @@
+streamlit
+matplotlib
+onnxruntime
+gunicorn
+numpy
+opencv-contrib-python-headless
+streamlit_drawable_canvas==0.1.1
